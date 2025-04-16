@@ -46,13 +46,5 @@ AI helped in the development process by:
 
 ---
 
-## 📚 Project Structure
 
-```plaintext
-myToDoApp/
-├── src/
-│   ├── Main.java
-│   ├── Task.java
-│   ├── TaskManager.java
-│   ├── TimerThread.java
-│   └── InvalidNumberException.java
+
